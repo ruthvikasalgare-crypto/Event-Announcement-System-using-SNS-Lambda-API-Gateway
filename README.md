@@ -580,4 +580,37 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using AWS and Terraform**
+## Project Screenshots
+
+### VS Code and Terraform Output
+![Terraform Output](screenshots/terraform.output.jpg)
+
+### Live Website - Event Form
+![Event Form](screenshots/event_form.jpg)
+
+### Email Subscription Confirmation
+![AWS Subscription Confirmation](screenshots/aws_subscribtion_confirmation.jpg)
+
+### SNS Email Confirmation
+![SNS Email Confirmation](screenshots/sns_email_confirmation.jpg)
+
+### Event Notification Email
+![Event Notification Email](screenshots/event_notification_mail.jpg)
+
+### API Gateway
+![API Gateway](screenshots/api_gateway.jpg)
+
+### AWS Lambda Functions
+![Lambda Functions](screenshots/lambda_function.jpg)
+
+### SNS Topic
+![SNS Topic](screenshots/sns_topic.jpg)
+
+### S3 Bucket
+![S3 Bucket](screenshots/s3_bucket.jpg)
+
+### CloudFront Distribution
+![CloudFront Distribution](screenshots/cloudfront_distribution.jpg)
+
+
+
